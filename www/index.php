@@ -70,6 +70,6 @@ if ($clientDBName == 'yaamava-mm_portal')
             }(jQuery)
         );
     </script>
-    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=yaamava-mm&client_id=9beb2c53b184deb77e3fbf266f879ae3" type="text/javascript"></script>
+    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=yaamava-mm&client_id=0b594811ef602cb13340c6a03e9d2bcd" type="text/javascript"></script>
 </body>
 </html>
